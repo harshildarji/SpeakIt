@@ -22,7 +22,10 @@ namespace SpeakIt
         {
             string text = textBox1.Text;
             SpeechSynthesizer speech = new SpeechSynthesizer();
-            speech.SelectVoiceByHints(VoiceGender.Male, VoiceAge.Adult);
+            if (radioButton1.Checked == true)
+                speech.SelectVoiceByHints(VoiceGender.Male, VoiceAge.Adult);
+            else
+                speech.SelectVoiceByHints(VoiceGender.Female, VoiceAge.Adult);
             speech.Volume = 100;
             speech.Speak(text);
         }

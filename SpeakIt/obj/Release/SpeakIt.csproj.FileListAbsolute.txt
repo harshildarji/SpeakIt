@@ -1,0 +1,8 @@
+C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\bin\Release\SpeakIt.exe.config
+C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\bin\Release\SpeakIt.exe
+C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\bin\Release\SpeakIt.pdb
+C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\obj\Release\SpeakIt.Form1.resources
+C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\obj\Release\SpeakIt.Properties.Resources.resources
+C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\obj\Release\SpeakIt.csproj.GenerateResource.Cache
+C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\obj\Release\SpeakIt.exe
+C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\obj\Release\SpeakIt.pdb

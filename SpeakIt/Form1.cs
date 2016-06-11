@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
 using System.Speech.Synthesis;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace SpeakIt
@@ -18,16 +11,21 @@ namespace SpeakIt
             InitializeComponent();
         }
 
+        SpeechSynthesizer speech = new SpeechSynthesizer();
         private void button1_Click(object sender, EventArgs e)
         {
             string text = textBox1.Text;
-            SpeechSynthesizer speech = new SpeechSynthesizer();
+            selectGender();
+            speech.Volume = 100;
+            speech.Speak(text);
+        }
+
+        public void selectGender()
+        {
             if (radioButton1.Checked == true)
                 speech.SelectVoiceByHints(VoiceGender.Male, VoiceAge.Adult);
             else
                 speech.SelectVoiceByHints(VoiceGender.Female, VoiceAge.Adult);
-            speech.Volume = 100;
-            speech.Speak(text);
         }
     }
 }

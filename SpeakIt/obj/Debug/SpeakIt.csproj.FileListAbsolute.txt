@@ -7,3 +7,12 @@ C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\o
 C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\obj\Debug\SpeakIt.csproj.GenerateResource.Cache
 C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\obj\Debug\SpeakIt.exe
 C:\Users\Jarvis\OneDrive\Documents\Visual Studio 2015\Projects\SpeakIt\SpeakIt\obj\Debug\SpeakIt.pdb
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\bin\Debug\SpeakIt.exe.config
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\obj\Debug\SpeakIt.exe
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\obj\Debug\SpeakIt.pdb
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\bin\Debug\SpeakIt.exe
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\bin\Debug\SpeakIt.pdb
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\obj\Debug\SpeakIt.csprojResolveAssemblyReference.cache
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\obj\Debug\SpeakIt.Form1.resources
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\obj\Debug\SpeakIt.Properties.Resources.resources
+C:\Users\Jarvis\OneDrive\Documents\GitHub\SpeakIt\SpeakIt\obj\Debug\SpeakIt.csproj.GenerateResource.Cache

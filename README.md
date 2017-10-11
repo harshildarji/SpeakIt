@@ -4,9 +4,7 @@ Simple windows form application that speaks whatever user enters into given text
 #### Code behind:
 
 - Basic idea behind this is similar to my previous repository: <a href="https://github.com/H-Darji/KeySound">KeySound</a>
-- I included a **`textbox`**, **`groupbox`** with **`two radio buttons`** and a **`button`** as shown in below image:
-
-<img src="https://f4e7137fefea07b0fae4c8ffd7320e68e7aa0823-www.googledrive.com/host/0B9svjAuZEeT4YVM3M1hzdGVxUzQ/si.jpg">
+- I included a **`textbox`**, **`groupbox`** with **`two radio buttons`** and a **`button`**.
 
 - User enters data/message into textbox provided, which then will be passed to a string variable as:
 ```C#
